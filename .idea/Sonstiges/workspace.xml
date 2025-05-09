@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16d7fd51-498a-4ec2-8ce9-6b21a5cf4768" name="Changes" comment=".">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Sonstiges/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Design" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java/Design" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Story.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Html/Story.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Sonstiges/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Sonstiges/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Sonstiges/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Sonstiges/workspace.xml" afterDir="false" />
+    <list default="true" id="16d7fd51-498a-4ec2-8ce9-6b21a5cf4768" name="Changes" comment="..">
+      <change beforePath="$PROJECT_DIR$/.idea/Html/Story.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Html/Story.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Sonstiges/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Sonstiges/modules.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,12 +17,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -72,8 +68,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\peleraqu\IdeaProjects\2Text_Adventure\.idea\Java" />
       <recent name="C:\Users\peleraqu\IdeaProjects\2Text_Adventure\.idea\Sonstiges" />
+      <recent name="C:\Users\peleraqu\IdeaProjects\2Text_Adventure\.idea\Java" />
       <recent name="C:\Users\peleraqu\IdeaProjects\2Text_Adventure\.idea\Html" />
       <recent name="C:\Users\peleraqu\IdeaProjects\2Text_Adventure\.idea" />
     </key>
@@ -103,7 +99,7 @@
       <workItem from="1746613948748" duration="1929000" />
       <workItem from="1746777465338" duration="2613000" />
       <workItem from="1746780766864" duration="139000" />
-      <workItem from="1746780927023" duration="770000" />
+      <workItem from="1746780927023" duration="1084000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -121,7 +117,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746781318581</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".">
+      <option name="closed" value="true" />
+      <created>1746781708448</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746781708448</updated>
+    </task>
+    <task id="LOCAL-00004" summary="..">
+      <option name="closed" value="true" />
+      <created>1746781906241</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746781906241</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +141,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value=".." />
+    <option name="LAST_COMMIT_MESSAGE" value=".." />
   </component>
 </project>
